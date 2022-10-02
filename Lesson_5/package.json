@@ -1,0 +1,15 @@
+{
+  "name": "lesson_5",
+  "version": "1.0.0",
+  "description": "first external package installation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.5"
+  }
+}
